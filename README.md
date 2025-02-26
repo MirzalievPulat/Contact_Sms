@@ -1,6 +1,6 @@
 
 # 📞 Contact_Sms
-
+This app helps you call and send sms to your contacts.
 ## 📸 Screenshots
 
 | <img src="https://github.com/MirzalievPulat/Contact_Sms/blob/main/1.jpg?raw=true" width="200"/> | <img src="https://github.com/MirzalievPulat/Contact_Sms/blob/main/2.jpg?raw=true" width="200"/> |
